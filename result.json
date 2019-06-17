@@ -1,0 +1,1 @@
+[{"name": "Test output C", "status": "success", "expected_value": "C", "actual_value": "C"}, {"name": "Test output D", "status": "fail", "expected_value": "D", "actual_value": "B"}, {"name": "Test output A", "status": "fail", "expected_value": "A", "actual_value": "D"}, {"name": "Test output B", "status": "success", "expected_value": "B", "actual_value": "B"}]

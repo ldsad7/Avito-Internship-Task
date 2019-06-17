@@ -1,0 +1,1 @@
+{"suites": [{"name": "suite1", "tests": 1, "cases": [{"name": "Test output A", "errors": 1, "time": "Monday, 11-Sep-12 05:12:30 UTC"}]}, {"name": "suite2", "tests": 1, "cases": [{"name": "Test output B", "errors": 0, "time": "Wednesday, 28-Feb-18 18:52:19 UTC"}]}]}
